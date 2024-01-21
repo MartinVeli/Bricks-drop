@@ -13,8 +13,7 @@ Destroy as many blocks as possible to earn points.
 
 # How to play
 First craete account. After that you have three possible options:
-- Play: To change position on block.
+- Play: To change position on block. By selecting the play option, you must select the leftmost coordinate point of the block by entering a column and a row. Then the side to which the block will move (left or right) and by how many positions.
 - Continue: А new row is generated without doing changes.
 - Quit: To leave the game.
-By selecting the play option, you must select the leftmost coordinate point of the block by entering a column and a row. Then the side to which the block will move (left or right) and by how many positions.
-The game ends when the blocks reach the top row. Тhe score is saved and you are asked if you want to start a new game or quit.
+- The game ends when the blocks reach the top row. Тhe score is saved and you are asked if you want to start a new game or quit.
