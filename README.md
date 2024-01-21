@@ -9,7 +9,7 @@ The project implements a game - "Bricks Drop" in C++. The game involves manipula
 - Point scoring based on specific conditions.
 
 # Goal of the game
-destroy as many blocks as possible to earn points.
+Destroy as many blocks as possible to earn points.
 
 # How to play
 First craete account. After that you have three possible options:
