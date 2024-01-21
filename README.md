@@ -4,6 +4,6 @@
 The project implements a game - "Bricks Drop" in C++. The game involves manipulating blocks within a matrix, scoring points based on certain criteria.
 
 # Features
-- Dynamic generation of play zones with blocks.
+- Dynamic generation of blocks.
 - User commands for play.
 - Point scoring based on specific conditions.
